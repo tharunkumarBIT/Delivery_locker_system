@@ -106,12 +106,6 @@ export default function Login({ onToggleRegister }: LoginProps) {
               </button>
             </p>
           </div>
-
-          <div className="mt-8 pt-6 border-t border-gray-200">
-            <p className="text-xs text-gray-500 text-center">
-              Demo Accounts: admin@locker.com, courier@locker.com, john@example.com (password: any)
-            </p>
-          </div>
         </div>
       </div>
     </div>
